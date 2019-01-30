@@ -1,0 +1,58 @@
+
+.column {
+float: left;
+width: 33.33%;
+padding: 10px;
+height: 300px;
+}
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+.footer {
+background-color: #f1f1f1;
+padding: 10px;
+text-align: center;
+color: rgb(255, 0, 0) !important;
+margin: 20px 100px 10px 100px;
+background-image: url("https://hdbackgroundspot.com//storage/upload/cool-background-designs/cool-background-designs-26.jpg");
+opacity: 0.9;
+}
+
+.jumbotron {
+color: rgb(255, 0, 0) !important;
+margin: 10px 100px 20px 100px; 
+height: 200px;
+background-size: cover;
+background-image: url("https://hdbackgroundspot.com//storage/upload/cool-background-designs/cool-background-designs-26.jpg");
+opacity: 0.9;
+}
+
+.list-group-item, .table, .card-body {
+background-color: #bca6a6;   
+}
+
+body  {
+background-image: url("https://c.wallhere.com/photos/35/df/city_roof_red_people_urban_bw_white_black-944395.jpg!d");
+background-color: #cccccc;
+background-attachment: fixed;
+}
+.containerInput {
+position: relative;
+}
+
+h1 {
+
+text-shadow: 1px 1px 2px rgb(255, 255, 255), 0 0 25px rgb(216, 26, 26), 0 0 5px rgb(216, 26, 26);
+}
+
+.form-group {
+margin: 20px;
+}
+
+#add-train-btn{
+margin: 0px 0px 10px 20px; 
+}
