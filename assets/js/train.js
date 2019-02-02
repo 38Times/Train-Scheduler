@@ -16,6 +16,9 @@ $("#add-train-btn").on("click", function(){
 
 
 var name= $("#name-input").val().trim();
+var destination= $("#Destination-input").val().trim();
+var first= $("#first-input").val().trim();
+var form= $("#min-input").val().trim();
 })
 
 
